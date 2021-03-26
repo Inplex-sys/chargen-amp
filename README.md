@@ -7,6 +7,9 @@ Our Website [https://omega-project.cz/](https://omega-project.cz/) !
   - Async packet sending
   - Response awaiting
 
+# How it work ?
+![alt text](https://github.com/inplex-sys/chargen-amp/blob/main/img/chargen.jpg?raw=true)
+
 ### Installation
 Install the app on the server
 ```sh
